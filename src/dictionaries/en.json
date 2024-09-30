@@ -1,0 +1,34 @@
+{
+  "banner": {
+    "subtitle": "I don't want to waste your time, so here's a summary of what I love and know how to do!",
+    "contact": "Contact"
+  },
+  "experiences": {
+    "title": "Experiences",
+    "realWork": "Real Work",
+    "subtitle": "A brief summary of what i've done as a professional with tech:"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some relevant projects on my career",
+    "buttonText": "More",
+    "cards": [
+      {
+        "title": "University",
+        "description": "Analysis and systems development at the university Impacta Tecnology."
+      },
+      {
+        "title": "Softica (Current work)",
+        "description": "Building and maintaining web applications using React, Next.js, and Node.js."
+      },
+      {
+        "title": "Freelances",
+        "description": "I've done several freelance jobs, from RPA's with python to web applications with React and Node."
+      },
+      {
+        "title": "S1",
+        "description": "As a support analyst, I was responsible for solving problems in the company's system."
+      }
+    ]
+  }
+}

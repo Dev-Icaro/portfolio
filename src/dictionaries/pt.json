@@ -1,0 +1,34 @@
+{
+  "banner": {
+    "subtitle": "Eu não quero gastar seu tempo, então aqui está um resumo do que eu amo e sei como fazer!",
+    "contact": "Contato"
+  },
+  "experiences": {
+    "title": "Experiências",
+    "realWork": "Trabalho Real",
+    "subtitle": "Um breve resumo do que realizei como profissional na área de tecnologia:"
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Alguns projetos relevantes na minha carreira",
+    "buttonText": "Mais",
+    "cards": [
+      {
+        "title": "Faculdade",
+        "description": "Analise e desenvolvimento de sistemas na Faculdade Impacta."
+      },
+      {
+        "title": "Softica (Trabalho atual)",
+        "description": "Desenvolvimento e manutenção de aplicações web, utilizando React, Next.js e Node.js."
+      },
+      {
+        "title": "Freelances",
+        "description": "Eu desenvolvi inumeros trabalhos como freelancer, desde RPAs com python até aplicações web com React e Node."
+      },
+      {
+        "title": "S1",
+        "description": "Como analista de suporte, eu era responsavel por solucionar problemas e situações que os clientes apresentavam durante o uso do app."
+      }
+    ]
+  }
+}

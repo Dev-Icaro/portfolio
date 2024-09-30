@@ -11,8 +11,8 @@ interface ExperienceCardProps {
 
 const ExperienceCard = ({ icon, title, description, url, buttonText }: ExperienceCardProps) => {
   return (
-    <div className="flex flex-col gap-6">
-      <div className="relative group">
+    <div className="flex flex-col gap-6 group">
+      <div className="relative ">
         <div className="z-10 size-16 absolute bg-black w-fit p-5 rounded-lg text-white">{icon}</div>
         <div className="relative bg-gray-500 size-16 rounded-xl rotate-45 group-hover:rotate-12 transition-all" />
       </div>

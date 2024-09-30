@@ -21,7 +21,7 @@ export default async function HomePage({ params: { lang } }: { params: { lang: L
           </p>
 
           <div className="flex items-center justify-center gap-5">
-            <Link href="/documents/curriculo-icaro-f.pdf" target="_blank">
+            <Link href="/documents/curriculo-icaro-f.pdf" target="_blank" locale={false}>
               <Button variant="secondary" size="lg" className=" px-8 py-7 text-base">
                 Download CV
               </Button>
@@ -56,7 +56,12 @@ export default async function HomePage({ params: { lang } }: { params: { lang: L
           <h1 className="text-5xl font-bold text-center">Tech Stack</h1>
 
           <div className="relative w-full max-w-[400px] mx-auto">
-            <Image src="/images/skillicons.svg" alt="Tech Stack image" fill className="w-full h-auto" />
+            <Image
+              src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,aws,postgresql,mongodb,py,css,html,express,mysql,jest&perline=7"
+              alt="Tech Stack image"
+              width={400}
+              height={400}
+            />
           </div>
         </div>
       </section>

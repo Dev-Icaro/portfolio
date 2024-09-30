@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     dangerouslyAllowSVG: true,
-    domains: ['img.shields.io', 'purecatamphetamine.github.io'],
+    domains: ['img.shields.io', 'purecatamphetamine.github.io', 'skillicons.dev'],
   },
 };
 

@@ -9,7 +9,7 @@ import { ChevronUp } from 'lucide-react';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Icaro Kiiler',
+  title: 'Icaro Kiiler Melo',
   description: 'My personal website',
   icons: {
     icon: '/favicon.png',
